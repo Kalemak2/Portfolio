@@ -24,7 +24,7 @@ const Project = () => {
       </div>
 
       <div className='text-center mt-6'>
-        <a href='#' className='text-blue-500 hover:text-blue-700 underline font-medium'>
+        <a href='https://www.istockphoto.com/pl/zbior-darmowych-zdjec?utm_medium=cpc&utm_source=GOOGLE&utm_campaign=PL_Tail_Photo_EN_DSA&utm_content=Photo_Free_DSA&utm_term=DYNAMIC+SEARCH+ADS&program=free-trial&ds_rl=1261606&ds_rl=1265190&ds_rl=1265190&gad_source=1&gclid=CjwKCAjw9eO3BhBNEiwAoc0-jVtUZSOXl55ri9I53jEJNP-e0w7A5Q2c2Awd1WgPoofvo74RECKkShoC2IoQAvD_BwE&gclsrc=aw.ds' className='text-blue-500 hover:text-blue-700 underline font-medium'>
           Więcej zdjęć z tego projektu
         </a>
       </div>
